@@ -1,11 +1,4 @@
-import {
-  HomeDemo1Distribution,
-  HomeDemo1Graph11,
-} from "../../utils/allImgs"
-
-import SectionHeading from "../SectionHeading"
-
-const MintTokens = ({ data, ClassSpanTitle }) => {
+const MintTokens = () => {
 
   return (
 

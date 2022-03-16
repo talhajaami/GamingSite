@@ -2933,7 +2933,7 @@ support.sortDetached = assert( function( el ) {
 // Prevent attribute/property "interpolation"
 // https://msdn.microsoft.com/en-us/library/ms536429%28VS.85%29.aspx
 if ( !assert( function( el ) {
-	el.innerHTML = "<a href='#'></a>";
+	el.innerHTML = "<a href='/'></a>";
 	return el.firstChild.getAttribute( "href" ) === "#";
 } ) ) {
 	addHandle( "type|href|height|width", function( elem, name, isXML ) {

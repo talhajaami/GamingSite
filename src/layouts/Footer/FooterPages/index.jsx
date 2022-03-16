@@ -1,13 +1,9 @@
-import { FooterPattern } from '../../../utils/allImgs'
-
-import SectionHeading from '../../../components/SectionHeading'
-
 import '../Footer.scss'
 
 import IcoName from '../../../data/data-layout/Footer/data-IcoName.json'
 import TextFooter from '../../../data/data-layout/Footer/data-TextFooter.json'
 
-const FooterPages = ({ ClassSpanTitle = '' }) => {
+const FooterPages = () => {
   return (
     <footer className='footer-area '>
       <div className='footer-content-area demo'>
@@ -17,7 +13,7 @@ const FooterPages = ({ ClassSpanTitle = '' }) => {
               <div className='footer-copywrite-info'>
                 <div className='copywrite_text fadeInUp' data-wow-delay='0.2s'>
                   <div className='footer-logo'>
-                    <a href='#'>
+                    <a href='/'>
                       {/* <img draggable='false' src={FooterLogo} alt='logo' />{' '} */}
                     </a>
                   </div>
@@ -33,7 +29,7 @@ const FooterPages = ({ ClassSpanTitle = '' }) => {
                 >
                   {IcoName &&
                     IcoName.map((item, key) => (
-                      <a key={key} href='#'>
+                      <a key={key} href='/'>
                         <i className={item.IcoName} aria-hidden='true' />
                       </a>
                     ))}
