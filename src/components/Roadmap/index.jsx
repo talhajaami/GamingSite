@@ -1,5 +1,3 @@
-import SectionHeading from "../SectionHeading"
-
 const Roadmap = ({ data }) => {
 
   return (

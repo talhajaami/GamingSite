@@ -6,18 +6,6 @@ import HomeDemo1Platforms4 from "../../assets/img/ico-platforms/4.png"
 import HomeDemo1Platforms5 from "../../assets/img/ico-platforms/5.png"
 import HomeDemo1Platforms6 from "../../assets/img/ico-platforms/6.png"
 
-import HomeDemo1TeamImg1 from "../../assets/img/team-img/1.png"
-import HomeDemo1TeamImg2 from "../../assets/img/team-img/2.png"
-import HomeDemo1TeamImg3 from "../../assets/img/team-img/3.png"
-import HomeDemo1TeamImg4 from "../../assets/img/team-img/4.png"
-
-import HomeDemo2Platforms1 from "../../assets/img/ico-platforms/1.png"
-import HomeDemo2Platforms2 from "../../assets/img/ico-platforms/2.png"
-import HomeDemo2Platforms3 from "../../assets/img/ico-platforms/3.png"
-import HomeDemo2Platforms4 from "../../assets/img/ico-platforms/4.png"
-import HomeDemo2Platforms5 from "../../assets/img/ico-platforms/5.png"
-import HomeDemo2Platforms6 from "../../assets/img/ico-platforms/6.png"
-
 import HomeDemo6Platforms1 from "../../assets/img/ico-platforms/1.png"
 import HomeDemo6Platforms2 from "../../assets/img/ico-platforms/2.png"
 import HomeDemo6Platforms3 from "../../assets/img/ico-platforms/3.png"

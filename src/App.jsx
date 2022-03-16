@@ -4,7 +4,7 @@ import { Switch, Route } from "react-router-dom";
 import Aos from 'aos'
 
 import Homepage from "./components/Homepage";
-import Dashboard from "./components/admin/Dashboard"
+// import Dashboard from "./components/admin/Dashboard"
 import 'aos/dist/aos.css';
 import './assets/css/General.css';
 import './assets/css/sb-admin-2.min.css';

@@ -1,4 +1,3 @@
-import { auto } from '@popperjs/core';
 import BackgroundImage from '../../../src/assets/img/bg-img/wallpaper.jpg'
 
 const SecHeroSection = ({   }) => {

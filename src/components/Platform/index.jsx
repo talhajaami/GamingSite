@@ -1,9 +1,6 @@
 import androidIcon from '../../assets/img/icons/android.png'
 import webGL from '../../assets/img/icons/webgl.png'
 
-
-import SectionHeading from "../../components/SectionHeading"
-
 const Platform = ({data}) => {
 
     return (
