@@ -1,6 +1,6 @@
 import BackgroundImage from '../../../src/assets/img/bg-img/wallpaper.jpg'
 
-const SecHeroSection = ({   }) => {
+const SecHeroSection = () => {
 
   return (
     <img className='homepage-image-size' draggable="false" style={{ width: '100%', height: '864px'}} src={BackgroundImage} alt="" />

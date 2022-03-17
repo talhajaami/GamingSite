@@ -6,7 +6,7 @@ const SecHeader = ({MenuInfo }) => {
     <nav className="navbar navbar-expand-lg" id="banner">
       <div className="container">
         {/* Brand */}
-        <a className="navbar-brand navbar-logo " href="#"><span><img draggable="false" src={Logo} alt="logo" /></span></a>
+        <a className="navbar-brand navbar-logo " href="/"><span><img draggable="false" src={Logo} alt="logo" /></span></a>
         {/* Toggler/collapsibe Button */}
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
@@ -23,7 +23,7 @@ const SecHeader = ({MenuInfo }) => {
               </li>
             ))}
             {/* <li className="lh-55px"><a href="#" className="btn btn-danger login-btn ml-50">Sign Up</a></li> */}
-            <li className="lh-55px"><a href="#" className="btn btn-danger login-btn mx-1">Login</a></li>
+            <li className="lh-55px"><a href="/" className="btn btn-danger login-btn mx-1">Login</a></li>
           </ul>
         </div>
       </div>
